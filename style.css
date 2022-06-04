@@ -1,0 +1,43 @@
+body
+{
+ background-color:cornsilk;
+ font-family: 'Joan', serif;
+ text-align:center;
+}
+
+.header_div
+{
+ background-color:grey;
+ color:white;
+}
+
+.header_div p
+{
+ font-size:15px;
+ font-family:sans-serif;
+ color:white;
+ letter-spacing:2px;
+ font-weight:bold;
+}
+
+.main_div button
+{
+ margin-top:30px;
+ background-color:orange;
+ font-family:'roboto',sans-serif;
+ letter-spacing:3px;
+ font-weight:bold;
+}
+
+.copy_right_footer
+{
+ line-height:3;
+ bottom:0;
+ background-color:white;
+ position:fixed;
+ text-align:center;
+ text-shadow:5px 5px 5px grey;
+ color:black;
+ width:100%;
+}
+
